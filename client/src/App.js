@@ -9,9 +9,8 @@ import Login from './components/auth/Login';
 import PrivateRoute from './components/routing/PrivateRoute';
 
 import ContactState from './context/contact/ContactState';
-import AuthState from './context/auth/AuthState';
+import AuthState from './context/auth/authState';
 import AlertState from './context/alert/AlertState';
-import setAuthToken from './utils/setAuthToken';
 
 import './App.css';
 
